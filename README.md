@@ -9,5 +9,6 @@ Adding Indian states on kibana map
     - In map, select india 
     - In the field ,write geoip.real_region_name
     - save
+    -  ![alt tag](https://github.com/tushargit/Kibana-India-Map/blob/master/kibana_India_Map.png)
 
 
