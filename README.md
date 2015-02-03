@@ -6,8 +6,8 @@ Adding Indian states on kibana map
    add india in list as shown editor.html
 *  Download and paste map.india.js present in this repository at /var/www/kibana/app/panels/map/lib/
 *  Open kibana add map panel 
-..* 1)In map, select india 
-..* 2)In the field ,write geoip.real_region_name
-..* 3) save
+    []In map, select india 
+    []In the field ,write geoip.real_region_name
+    [] save
 
 
